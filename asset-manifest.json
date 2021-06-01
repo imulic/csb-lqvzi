@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-lqvzi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://.github.io/csb-lqvzi/static/js/main.5c46503e.chunk.js",
+    "main.js.map": "https://.github.io/csb-lqvzi/static/js/main.5c46503e.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-lqvzi/static/js/runtime-main.42400526.js",
+    "runtime-main.js.map": "https://.github.io/csb-lqvzi/static/js/runtime-main.42400526.js.map",
+    "static/css/2.c37ce07e.chunk.css": "https://.github.io/csb-lqvzi/static/css/2.c37ce07e.chunk.css",
+    "static/js/2.fadbc047.chunk.js": "https://.github.io/csb-lqvzi/static/js/2.fadbc047.chunk.js",
+    "static/js/2.fadbc047.chunk.js.map": "https://.github.io/csb-lqvzi/static/js/2.fadbc047.chunk.js.map",
+    "index.html": "https://.github.io/csb-lqvzi/index.html",
+    "static/css/2.c37ce07e.chunk.css.map": "https://.github.io/csb-lqvzi/static/css/2.c37ce07e.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-lqvzi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fadbc047.chunk.js.LICENSE.txt": "https://.github.io/csb-lqvzi/static/js/2.fadbc047.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42400526.js",
+    "static/css/2.c37ce07e.chunk.css",
+    "static/js/2.fadbc047.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5c46503e.chunk.js"
+  ]
+}
